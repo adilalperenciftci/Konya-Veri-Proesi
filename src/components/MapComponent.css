@@ -1,0 +1,23 @@
+/* MapComponent.css */
+.map-container {
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.header p {
+    margin: 0;
+    font-size: 16px;
+    color: #666;
+}
